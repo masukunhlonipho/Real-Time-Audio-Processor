@@ -1,3 +1,4 @@
+#remove hashtags from the beginning of the libraries to automatically install from the requirements.txt file
 #tkinter==9.6.0
 #scipy==1.11.0
 #numpy==1.24.3
