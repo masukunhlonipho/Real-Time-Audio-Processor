@@ -1,4 +1,4 @@
-tkinter==9.6.0
+#tkinter==9.6.0
 scipy==1.11.0
 numpy==1.24.3
 pyaudio==0.2.13
