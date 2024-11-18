@@ -1,1 +1,6 @@
-
+tkinter
+scipy
+numpy
+pyaudio
+sounddevice
+pydub
